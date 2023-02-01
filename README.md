@@ -8,7 +8,7 @@
 ### 👨🏼‍🎓 Education: IT Engineer
 ### 💻 Profession: Frontend Developer
 ### 💼 Work status: Looking for a job
-### 🌐 Website: www.arncil.github.io
+### 🌐 Website: https://arncil.github.io
 
 
 # 📊 GitHub Stats:
