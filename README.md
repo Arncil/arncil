@@ -4,9 +4,9 @@
 
 # 💫 About Me:
 ### 🧑🏼 Name: Miłosz Jackowiak
-### 👨🏼‍💻 Nickname: Arncil
+### 💻 Nickname: Arncil
 ### 👨🏼‍🎓 Education: IT Engineer
-### 💻 Profession: Frontend Developer
+### 👨🏼‍💻 Profession: Frontend Developer
 ### 💼 Work status: Looking for a job
 ### 🌐 Website: https://arncil.github.io
 
