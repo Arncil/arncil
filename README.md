@@ -8,7 +8,7 @@
 ### 👨🏼‍🎓 Education: IT Engineer
 ### 👨🏼‍💻 Profession: Frontend Developer
 ### 💼 Work status: Looking for a job
-### 🌐 Website: https://arncil.github.io
+### 🌐 Website: https://milosz.info
 
 
 # 📊 GitHub Stats:
