@@ -8,7 +8,6 @@
 ### 👨🏼‍🎓 Education: IT Engineer
 ### 👨🏼‍💻 Profession: Frontend Developer
 ### 💼 Work status: Looking for a job
-### 🌐 Website: https://milosz.info
 ### 🖋️ CodePen: https://codepen.io/Arncil
 
 
