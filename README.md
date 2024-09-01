@@ -30,12 +30,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/arncil/arncil/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://discord.com/users/407535950118387712" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
