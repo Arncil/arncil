@@ -1,4 +1,5 @@
-<h3 align="center">Yo! ✌️<br><br>I'm an IT engineer, with a background in graphic design and a passion for all things digital. I’ve dabbled in website development, online marketing, and databases, but lately, I’ve shifted gears into game development, diving deep into Godot.<br><br>Right now, I'm cooking up some awesome game projects. I'm not involved in any shared projects at the moment, but if you've got something interesting up your sleeve, I'm always open to collab! 👨🏼‍💻</h3>
+<h2 align="center">Yo! ✌️</h2>
+<h3 align="center">I'm an IT engineer, with a background in graphic design and a passion for all things digital. I’ve dabbled in website development, online marketing, and databases, but lately, I’ve shifted gears into game development, diving deep into Godot. Down the road, I've learnt to use some pretty great technologies:</h3>
 
 ###
 
@@ -27,6 +28,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
+
+---
+
+<h3 align="center">Right now, I'm cooking up some awesome game projects. I'm not involved in any shared projects at the moment, but if you've got something interesting up your sleeve, I'm always open to collab! 👨🏼‍💻</h3>
 
 ###
 
